@@ -29,7 +29,7 @@ The global semiconductor value chain behaves as a strict geopolitical oligopoly 
 ## Core Visualizations
 *Plots generated dynamically by the pipeline and saved directly to the workspace:*
 
-1. **`semiconductor_market_cap_by_country.png`** - Horizontal bar plot highlighting overall valuation concentration.
+1. ![Market Cap Chart](semiconductor_market_cap_by_country.png) - Horizontal bar plot highlighting overall valuation concentration.
 2. **`semiconductor_company_count_by_country.png`** - Distribution plot tracking organizational ecosystem density.
 3. **`semiconductor_global_market_share_donut.png`** - Financial share donut chart with a center-anchored aggregate industry market value overlay.
 
